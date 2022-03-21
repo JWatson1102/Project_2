@@ -9,6 +9,17 @@ __Transform:__ clean and structure the data to suit business needs.
 
 __Load:__ load the data into a database for storage that can be used for future analysis or business use.
 
+##  Objective: 
+##### We chose two data sources to analyze the bestselling books throughout several years for our project. 
+__[Group Repo](https://github.com/JWatson1102/Project_2.git)__
+
+### Members:
+
+- Josh Watson
+- Amy Castillon
+- George Vallejo
+- Mindy Garcia
+
 
 With over a million new releases each year, the book industry can seem daunting when looking for a good read. However, finding the bestsellers, ratings, and book size can help customers decide if they should start that lengthy novel over their short weekend. 
 
