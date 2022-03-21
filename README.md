@@ -2,7 +2,7 @@
 ![Project_2__ETL___Extract,_Transform,_Load_ (4)](https://user-images.githubusercontent.com/96347335/159199680-67960c61-1a05-4eb1-a18d-5fdede399a60.png)
 
 
-# ETL : Extract, Transform, Load:
+# ETL:
 __Extract:__ read the data, often from multiple sources/formats.
 
 __Transform:__ clean and structure the data to suit business needs.
