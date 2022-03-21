@@ -1,6 +1,6 @@
 
+![Project_2__ETL___Extract,_Transform,_Load_ (4)](https://user-images.githubusercontent.com/96347335/159199680-67960c61-1a05-4eb1-a18d-5fdede399a60.png)
 
-![Project_2__ETL___Extract,_Transform,_Load_ (3)](https://user-images.githubusercontent.com/96347335/159197388-4e665569-1810-4d18-a2af-f28355a1b851.png)
 
 # ETL : Extract, Transform, Load:
 __Extract:__ read the data, often from multiple sources/formats.
