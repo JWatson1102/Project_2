@@ -1,9 +1,10 @@
 
-![Project_2__ETL___Extract,_Transform,_Load (6)](https://user-images.githubusercontent.com/96347335/159202410-7b8fe437-60c2-4d71-9867-f243d4f313b7.png)
+![Project_2__ETL___Extract,_Transform,_Load (7)](https://user-images.githubusercontent.com/96347335/159202461-2a5783dd-0750-4e0a-9683-5d3b11330e33.png)
 
 
 
 # ETL:
+
 __Extract:__ read the data, often from multiple sources/formats.
 
 __Transform:__ clean and structure the data to suit business needs.
@@ -12,7 +13,10 @@ __Load:__ load the data into a database for storage that can be used for future 
 
 ##  Objective: 
 ##### We chose two data sources to analyze the bestselling books throughout several years for our project. 
+
+
 __[Group Repo](https://github.com/JWatson1102/Project_2.git)__
+
 
 ### Members:
 
@@ -20,6 +24,8 @@ __[Group Repo](https://github.com/JWatson1102/Project_2.git)__
 - Amy Castillon
 - George Vallejo
 - Mindy Garcia
+- 
+__[Group Repo](https://github.com/JWatson1102/Project_2.git)__
 
 
 ***
