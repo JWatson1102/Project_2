@@ -31,7 +31,7 @@ With over a million new releases each year, the book industry can seem daunting 
 
 > - __[Goodreads Books](https://www.kaggle.com/jealousleopard/goodreadsbooks?select=books.csv)__ 
 
-> The two sources we extracted were in different formats. Goodreads data was extracted from Kaggle in CSV form. Our NYT data was extracted from an API in JSON format. Once we extracted the data from both sources, we then exported the data into CSV. 
+> The two sources we extracted were in different formats. Goodreads data was extracted from Kaggle in CSV form. Our NYT data was extracted from an API in JSON format. Once we extracted the data from both sources, we then exported the data into CSV files. 
 
 
 # Data Cleaning: CSV File
