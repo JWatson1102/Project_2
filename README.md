@@ -1,5 +1,6 @@
 
-![Project_2__ETL___Extract,_Transform,_Load_ (1)](https://user-images.githubusercontent.com/96347335/159197278-712b7cdf-ff45-4c82-8b2e-04bd51762148.png)
+
+![Project_2__ETL___Extract,_Transform,_Load_ (3)](https://user-images.githubusercontent.com/96347335/159197388-4e665569-1810-4d18-a2af-f28355a1b851.png)
 
 
 Many critical and valuable data are available these days, but it is often dispersed among multiple data sources and not well organized. **Extracting** the data from its sources, **transforming** it by cleaning or reformatting it, and **loading** or storing the resulting data into a well-designed database is critical for data-driven organizations. 
