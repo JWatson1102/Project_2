@@ -8,7 +8,7 @@ Many critical and valuable data are available these days, but it is often disper
 
 With over a million new releases each year, the book industry can seem daunting when looking for a good read. However, finding the bestsellers, ratings, and book size can help customers decide if they should start that lengthy novel over their short weekend. 
 
-![Untitled design (1)](https://user-images.githubusercontent.com/96347335/159197897-d12db150-f611-4f5e-9985-718af1a8b76e.png)
+
 
 
 
