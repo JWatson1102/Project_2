@@ -2,8 +2,12 @@
 
 ![Project_2__ETL___Extract,_Transform,_Load_ (3)](https://user-images.githubusercontent.com/96347335/159197388-4e665569-1810-4d18-a2af-f28355a1b851.png)
 
+# ETL : Extract, Transform, Load:
+__Extract:__ read the data, often from multiple sources/formats.
 
-Many critical and valuable data are available these days, but it is often dispersed among multiple data sources and not well organized. **Extracting** the data from its sources, **transforming** it by cleaning or reformatting it, and **loading** or storing the resulting data into a well-designed database is critical for data-driven organizations. 
+__Transform:__ clean and structure the data to suit business needs.
+
+__Load:__ load the data into a database for storage that can be used for future analysis or business use.
 
 
 With over a million new releases each year, the book industry can seem daunting when looking for a good read. However, finding the bestsellers, ratings, and book size can help customers decide if they should start that lengthy novel over their short weekend. 
