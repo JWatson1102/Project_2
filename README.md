@@ -24,7 +24,7 @@ __[Group Repo](https://github.com/JWatson1102/Project_2.git)__
 - Amy Castillon
 - George Vallejo
 - Mindy Garcia
-- 
+
 __[Group Repo](https://github.com/JWatson1102/Project_2.git)__
 
 
