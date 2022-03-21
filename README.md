@@ -1,13 +1,38 @@
-Project 2: Extract, Transform, Load (ETL) Project Purpose.
+
+![Project_2__ETL___Extract,_Transform,_Load_ (4)](https://user-images.githubusercontent.com/96347335/159199680-67960c61-1a05-4eb1-a18d-5fdede399a60.png)
 
 
-Many critical and valuable data are available these days, but it is often dispersed among multiple data sources and not well organized. **Extracting** the data from its sources, **transforming** it by cleaning or reformatting it, and **loading** or storing the resulting data into a well-designed database is critical for data-driven organizations. 
+# ETL:
+__Extract:__ read the data, often from multiple sources/formats.
+
+__Transform:__ clean and structure the data to suit business needs.
+
+__Load:__ load the data into a database for storage that can be used for future analysis or business use.
+
+##  Objective: 
+##### We chose two data sources to analyze the bestselling books throughout several years for our project. 
+__[Group Repo](https://github.com/JWatson1102/Project_2.git)__
+
+### Members:
+
+- Josh Watson
+- Amy Castillon
+- George Vallejo
+- Mindy Garcia
 
 
 With over a million new releases each year, the book industry can seem daunting when looking for a good read. However, finding the bestsellers, ratings, and book size can help customers decide if they should start that lengthy novel over their short weekend. 
 
+***
 
-![books](https://user-images.githubusercontent.com/96347335/158924336-bb99a6a0-4e0e-4d35-801e-0eed9b82787c.jpeg)
+## 1. Data sources:
+
+> - __[New York Times API ](https://developer.nytimes.com/docs/books-product/1/routes/lists.json/get)__ 
+
+> - __[Goodreads Books](https://www.kaggle.com/jealousleopard/goodreadsbooks?select=books.csv)__ 
+
+> The two sources we extracted were in different formats. Goodreads data was extracted from Kaggle in CSV form. Our NYT data was extracted from an API in JSON format. Once we extracted the data from both sources, we then exported the data into CSV files. 
+
 
 # Data Cleaning: CSV File
 The original csv file (book.csv)looked as follows: 
