@@ -1,5 +1,6 @@
 
-![Project_2__ETL___Extract,_Transform,_Load_ (4)](https://user-images.githubusercontent.com/96347335/159199680-67960c61-1a05-4eb1-a18d-5fdede399a60.png)
+![Project_2__ETL___Extract,_Transform,_Load (6)](https://user-images.githubusercontent.com/96347335/159202410-7b8fe437-60c2-4d71-9867-f243d4f313b7.png)
+
 
 
 # ETL:
@@ -21,6 +22,7 @@ __[Group Repo](https://github.com/JWatson1102/Project_2.git)__
 - Mindy Garcia
 
 
+***
 With over a million new releases each year, the book industry can seem daunting when looking for a good read. However, finding the bestsellers, ratings, and book size can help customers decide if they should start that lengthy novel over their short weekend. 
 
 ***
