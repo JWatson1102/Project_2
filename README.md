@@ -23,8 +23,15 @@ __[Group Repo](https://github.com/JWatson1102/Project_2.git)__
 
 With over a million new releases each year, the book industry can seem daunting when looking for a good read. However, finding the bestsellers, ratings, and book size can help customers decide if they should start that lengthy novel over their short weekend. 
 
+***
 
+## 1. Data sources:
 
+> - __[New York Times API ](https://developer.nytimes.com/docs/books-product/1/routes/lists.json/get)__ 
+
+> - __[Goodreads Books](https://www.kaggle.com/jealousleopard/goodreadsbooks?select=books.csv)__ 
+
+> The two sources we extracted were in different formats. Goodreads data was extracted from Kaggle in CSV form. Our NYT data was extracted from an API in JSON format. Once we extracted the data from both sources, we then exported the data into CSV. 
 
 
 # Data Cleaning: CSV File
