@@ -1,6 +1,5 @@
 CREATE TABLE nyt_query (
-	id VARCHAR PRIMARY KEY,
-	ISBN_13 VARCHAR,
+    ISBN_13 VARCHAR primary key,
 	Title VARCHAR,
 	Author VARCHAR,
 	Publisher VARCHAR,
@@ -8,5 +7,5 @@ CREATE TABLE nyt_query (
 	NYT_Review_Link VARCHAR,
 	Most_Recent_Bestseller_Date VARCHAR,
 	Most_Recent_Rank VARCHAR,
-	Number_of_Weeks_on_List VARCHAR	
+	Number_of_Weeks_on_List VARCHAR
 )
