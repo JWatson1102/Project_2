@@ -1,0 +1,268 @@
+ISBN-13	Title	Author	Publisher	Description	NYT Review Link	Most Recent Bestseller Date	Most Recent Rank	Number of Weeks on List
+9780316015844	THE TWILIGHT SAGA	Stephenie Meyer	"Little, Brown"	Vampires and werewolves and their intrigues in high school.	https://www.nytimes.com/2007/08/12/books/review/Schillinger7-t.html	3/12/2022	9	279
+9780439655484	HARRY POTTER	J.K. Rowling	Scholastic	A wizard hones his conjuring skills in the service of fighting evil.		3/12/2022	3	677
+9780439064866	HARRY POTTER	J.K. Rowling	Scholastic	A wizard hones his conjuring skills in the service of fighting evil.		3/12/2022	3	677
+9780439358071	HARRY POTTER	J.K. Rowling	Scholastic	A wizard hones his conjuring skills in the service of fighting evil.		3/12/2022	3	677
+9780439785969	HARRY POTTER	J.K. Rowling	Scholastic	A wizard hones his conjuring skills in the service of fighting evil.		3/12/2022	3	677
+9780786838653	PERCY JACKSON & THE OLYMPIANS	Rick Riordan	Disney-Hyperion	A boy battles mythological monsters.	https://www.nytimes.com/2009/05/31/books/review/Devereaux-t.html	3/12/2022	4	613
+9780061122415	THE ALCHEMIST	Paulo Coelho	HarperOne/HarperCollins	A Spanish shepherd boy ventures to Egypt in search of treasure and his destiny.		9/2/2017	7	427
+9780375831003	THE BOOK THIEF	Markus Zusak	Knopf	A girl copes with life under the Nazis by stealing books.	https://www.nytimes.com/2006/05/14/books/review/14greenj.html	2/26/2022	7	0
+9780143038412	"EAT, PRAY, LOVE"	Elizabeth Gilbert	Penguin	"A writer’s journey in search of self takes her to Italy, India and Indonesia."	https://www.nytimes.com/2006/02/26/books/review/26egan.html	9/3/2011	27	0
+9781565125605	WATER FOR ELEPHANTS	Sara Gruen	Algonquin	A young veterinary student — and an elephant — save a Depression-era circus.	https://www.nytimes.com/2006/06/04/books/review/04judd.html	12/29/2012	16	49
+9781400032716	The Curious Incident of the Dog in the Night-Time	Mark Haddon			https://www.nytimes.com/2003/06/15/books/the-remains-of-the-dog.html	null	null	null
+9780142001745	THE SECRET LIFE OF BEES	Sue Monk Kidd	Penguin	"In South Carolina in 1964, a teenage girl tries to discover the secret to her mother’s past."	https://www.nytimes.com/2002/03/31/books/books-in-brief-fiction-poetry-176362.html	6/23/2012	35	0
+9780743454537	MY SISTER’S KEEPER	Jodi Picoult	Washington Square	A girl sues her parents after learning they want her to donate a kidney to her sibling.	https://www.nytimes.com/2004/04/18/books/books-in-brief-fiction-poetry-147680.html	10/17/2009	34	0
+9780743247542	THE GLASS CASTLE	Jeannette Walls	Scribner	The author recalls how she and her siblings were constantly moved from one bleak place to another.	https://www.nytimes.com/2005/03/13/books/review/013COVERPROSE.html	9/11/2021	9	450
+9780385486804	INTO THE WILD	Jon Krakauer	Anchor	A man's obsession with the wilderness ends in tragedy.	https://www.nytimes.com/1996/03/03/books/adventures-of-alexander-supertramp.html	11/26/2016	3	0
+9780143039952	The Odyssey (Penguin Classics)	Homer			https://www.nytimes.com/2000/07/09/books/the-humbling-of-odysseus.html	null	null	null
+9780553381696	A CLASH OF KINGS	George RR Martin	Random House Audio	"The second book in the Song of Ice and Fire series. Read by Roy Dotrice. 37 hours, 12 minutes unabridged."		6/29/2019	6	0
+9780316346627	TIPPING POINT	Malcolm Gladwell	"Back Bay/Little, Brown"	How and why certain products and ideas become fads.	https://www.nytimes.com/books/00/03/05/reviews/000305.05wolfet.html	8/27/2016	8	0
+9780786856862	PERCY JACKSON & THE OLYMPIANS	Rick Riordan	Disney-Hyperion	A boy battles mythological monsters.	https://www.nytimes.com/2009/05/31/books/review/Devereaux-t.html	3/12/2022	4	613
+9780061234002	FREAKONOMICS	Steven D Levitt and Stephen J Dubner	Morrow/HarperCollins	"How to apply economic theory to almost everything.,"	https://www.nytimes.com/2005/05/15/books/review/15HOLTL.html	8/27/2016	7	0
+9780060786502	THE POISONWOOD BIBLE	Barbara Kingsolver	HarperCollins Publishers	"Five female characters, a missionary's family, narrate this novel set in the Belgian Congo during that country's fight for independence; originally published in 1998."	https://www.nytimes.com/1998/10/18/books/going-native.html	1/12/2013	21	1
+9780316010665	BLINK	Malcolm Gladwell	"Back Bay/Little, Brown"	The importance of hunch and instinct.	https://www.nytimes.com/2005/01/16/books/review/16COVERBR.html	7/26/2014	25	0
+9781742851334	HOUSE OF NIGHT	PC Cast and Kristin Cast	St. Martin’s Press	Vampires in school.		10/25/2014	6	153
+9781400078776	NEVER LET ME GO	Kazuo Ishiguro	Vintage International	"At a school in the English countryside, children are trained for a terrible destiny."	https://www.nytimes.com/2005/04/17/books/review/17KERRL.html	1/2/2011	31	0
+9780385494786	INTO THIN AIR	Jon Krakauer	Anchor	A chronicle of the 1996 Mount Everest expeditions that led to the death of a dozen climbers.	https://www.nytimes.com/1998/04/12/books/new-noteworthy-paperbacks-331287.html	7/30/2016	7	0
+9780060557812	NEVERWHERE	Neil Gaiman	HarperAudio	"A businessman falls into a world of monsters and knights beneath the London streets. 13 hours, 48 minutes unabridged. Read by the author."		2/2/2019	6	0
+9780618711659	EXTREMELY LOUD AND INCREDIBLY CLOSE	Jonathan Safran Foer	Mariner/Houghton Mifflin	"A precocious boy goes on a scavenger hunt through New York’s five boroughs in search of the lock that fits a key belonging to his father, who died on Sept. 11."	https://www.nytimes.com/2005/04/03/books/review/0403cover-kirn.html	4/14/2012	25	0
+9780440241904	CAN YOU KEEP A SECRET?	Sophie Kinsella	Random House Publishing	A woman reveals the most intimate details of her life to a man who turns out to be the C.E.O. of the company for which she works.		11/12/2011	30	0
+9780439709101	Inkheart  (Inkheart Trilogy)	Cornelia Funke			https://www.nytimes.com/2003/12/21/books/children-s-books-517305.html	null	null	null
+9781784161118	A WALK IN THE WOODS	Bill Bryson	Broadway	"A journey to rediscover America by trekking the 2,100 miles of the Appalachian Trail. First published in 1998; a 2015 movie."		7/30/2016	9	0
+9780375435249	SNOW FLOWER AND THE SECRET FAN	Lisa See	Random House	Two women in 19th-century China establish a lifeline based on a secret form of communication.	https://www.nytimes.com/2005/09/25/books/review/25galehouse.html	8/13/2011	21	0
+9780671021009	SHE'S COME UNDONE	Wally Lamb	Simon & Schuster	A woman's harrowing progress from youth to middle age; originally published in 1992.	https://www.nytimes.com/1992/08/23/books/it-s-a-miserable-life.html	4/27/2013	23	4
+9780140275360	The Iliad (Penguin Classics Deluxe Edition)	Homer			https://www.nytimes.com/1997/07/20/books/yo-achilles.html	null	null	null
+9781400033416	BELOVED	Toni Morrison	Vintage	Winner of the 1988 Pulitzer Prize for fiction. A former slave living in Ohio is haunted by events at the Kentucky plantation from which she escaped 18 years ago.	https://www.nytimes.com/1987/09/13/books/jaunted-by-their-nightmares.html	8/15/2020	4	7
+9780375704024	Norwegian Wood	Haruki Murakami			https://www.nytimes.com/2000/09/24/books/rubber-souls.html	null	null	null
+9780061150142	THE PACT	Jodi Picoult	HarperCollins	"When a teenage girl commits suicide, her boyfriend is accused of murder."	https://www.nytimes.com/1998/08/02/books/books-in-brief-fiction-060151.html	8/27/2016	16	0
+9780553380163	A BRIEF HISTORY OF TIME	Stephen Hawking	Bantam	The British cosmologist reviews efforts to create a unified theory of the universe; first published in 1988.		6/30/2018	6	0
+9780140167771	THE SECRET HISTORY	Donna Tartt	Vintage	"Close friends at a small college in Vermont must deal with the consequences of a crime; Tartt's first novel, originally published in 1992."		7/5/2014	24	0
+9780446672214	Where the Heart Is (Oprah's Book Club)	Billie Letts			https://www.nytimes.com/1995/08/06/books/in-short-fiction-438395.html	null	null	null
+9781400079278	Kafka on the Shore	Haruki Murakami			https://www.nytimes.com/2005/02/06/books/review/kafka-on-the-shore-realitys-culdesacs.html	null	null	null
+9780385335973	DRAGONFLY IN AMBER	Diana Gabaldon	Dell	"Volume 2 of the Outlander series, about an 18th-century Scottish warrior and a time-traveling World War II-era nurse; first published in 1992."		6/20/2015	19	0
+9780618485222	The Namesake: A Novel	Jhumpa Lahiri			https://www.nytimes.com/2003/09/28/books/out-of-the-overcoat.html	null	null	null
+9780802142849	Cold Mountain	Charles Frazier			https://www.nytimes.com/1997/07/13/books/american-odyssey.html	null	null	null
+9780307276902	A MILLION LITTLE PIECES	James Frey	Knopf Doubleday	Both author and publisher acknowledge that this addiction memoir contains numerous fabrications.	https://www.nytimes.com/2003/06/08/books/step-13-write-a-book.html	5/21/2011	14	1
+9780312323868	SOMETHING BLUE	Emily Giffin	St. Martin’s Griffin	"After being betrayed by her fiancé and her best friend, Darcy Rhone flees to London in an attempt to recreate her glamorous life on another continent."		8/20/2011	33	0
+9780812550757	SPEAKER FOR THE DEAD	Orson Scott Card	Tor	"Thousands of years after the events of ""Ender's Game,"" a second alien race has been discovered."		12/28/2013	14	0
+9780446617796	MAXIMUM RIDE	James Patterson	"Little, Brown & Company"	Winged children try to save the world.		6/6/2015	10	81
+9780060899226	KITCHEN CONFIDENTIAL	Anthony Bourdain	Ecco	A memoir-exposé of the restaurant world. Originally published in 2000.	https://www.nytimes.com/2001/05/20/books/new-noteworthy-paperbacks-272809.html	1/1/2022	15	77
+9780553381542	The Prince of Tides: A Novel	Pat Conroy			https://www.nytimes.com/1986/10/12/books/romancing-the-shrink.html	null	null	null
+9781421501680	"DEATH NOTE, VOL. 1"	Tsugumi Ohba and Takeshi Obata	VIZ Media	Light Yagami discovers a supernatural notebook that allows him to murder anyone he has seen by writing their name in it. He uses this ability to try to rid the world of evil.		5/2/2015	7	3
+9780060838652	A PEOPLE'S HISTORY OF THE UNITED STATES: 1492 TO PRESENT	Howard Zinn	HarperAudio	"An account from the point of view of women, African-Americans and others who are often marginalized. Read by Jeff Zinn. 34 hours, 8 minutes unabridged."		12/1/2018	8	0
+9780743226721	1776	David McCullough	Simon & Schuster	"An account of America's founding year by the Pulitzer Prize-winning author, focusing on the inexperienced George Washington and heroic citizen soldiers. Originally published in 2005."		7/6/2013	19	1
+9781577314806	THE POWER OF NOW	Eckhart Tolle	New World Library	A guide to personal growth and spiritual enlightenment. Originally published in 2002.		12/31/2016	9	0
+9780375725784	A HEARTBREAKING WORK OF STAGGERING GENIUS	Dave Eggers	Simon & Schuster	A memoir of bringing up his younger brother after both his parents die of cancer; originally published in 2000.		10/25/2014	4	0
+9781932664089	SCOTT PILGRIM: PRECIOUS LITTLE LIFE	Bryan Lee O’Malley	Oni Press	"Meet Scott Pilgrim, twentysomething slacker, member of the band Sex Bob-Omb and would-be suitor of Ramona Flowers."		9/17/2011	10	78
+9780446696128	THE RESCUE	Nicholas Sparks	Grand Central	"A volunteer fireman helps a young single mother search for her missing son, a 4-year-old with severe learning disabilities."		1/1/2022	10	0
+9780446696111	THE GUARDIAN	Nicholas Sparks	Grand Central	"While trying to choose between two suitors, a young widow realizes that her life is in danger; originally published in 2003."		7/16/2016	3	2
+9780375714573	PERSEPOLIS	Marjane Satrapi	Pantheon	"A memoir of the author’s life from ages 6 to 14 in Iran, during and after its 1979 revolution, depicted through black-and-white comic strip images."		10/3/2020	11	0
+9780763625290	THE TALE OF DESPEREAUX	Kate DiCamillo	Candlewick	"A mouse, a rat and a girl on a magic trip."	https://www.nytimes.com/2003/11/16/books/children-s-books-a-world-without-soup.html	12/5/2009	9	63
+9780380731862	SHUTTER ISLAND	Dennis Lehane	Harper	A United States marshal hunts for a beautiful patient escaped from a hospital for the criminally insane on an island in Boston’s outer harbor.	https://www.nytimes.com/2003/04/20/books/crime-205109.html	4/25/2010	25	0
+9780743270755	TEAM OF RIVALS	Doris Kearns Goodwin	Simon & Schuster	"The political genius of Abraham Lincoln, revealed in his relationship with his cabinet; originally published in 2005."	https://www.nytimes.com/2005/11/06/books/review/06mcpherson.html	8/26/2017	7	13
+9780446615860	THE WEDDING	Nicholas Sparks	Grand Central	A regretful careerist seeks to make amends.		3/26/2016	5	1
+9781400078431	THE YEAR OF MAGICAL THINKING	Joan Didion	Vintage	Winner of the National Book Award in 2005. The late writer recounts her daughter’s illness and husband’s death.	https://www.nytimes.com/2005/10/09/books/review/09pinsky.html	2/12/2022	10	7
+9780142001431	Year of Wonders: A Novel of the Plague	Geraldine Brooks			https://www.nytimes.com/2001/08/26/books/quarantined.html	null	null	null
+9781590385814	FABLEHAVEN	Brandon Mull	"Shadow Mountain/Aladdin, hardcover and paperback"	Evil is afoot in magical creatures' haven.		3/18/2017	4	16
+9780140286274	The Deep End of the Ocean (Oprah's Book Club)	Jacquelyn Mitchard			https://www.nytimes.com/1996/08/18/books/kidnapped.html	null	null	null
+9781400030651	A Fine Balance (Oprah's Book Club)	Rohinton Mistry			https://www.nytimes.com/1996/06/23/books/an-accidental-family.html	null	null	null
+9780393328622	THE HISTORY OF LOVE	Nicole Krauss	Norton		https://www.nytimes.com/2005/05/01/books/review/01MILLERL.html	10/24/2010	32	0
+9780345457370	The Bonesetter's Daughter: A Novel (Ballantine Reader's Circle)	Amy Tan			https://www.nytimes.com/2001/02/18/books/talking-to-ghosts.html	null	null	null
+9780316155595	MAXIMUM RIDE	James Patterson	"Little, Brown & Company"	Winged children try to save the world.		6/6/2015	10	81
+9780375703867	White Teeth: A Novel	Zadie Smith			https://www.nytimes.com/2001/06/17/books/new-noteworthy-paperbakcs.html	null	null	null
+9780060572969	DEAD WITCH WALKING	Kim Harrison	HarperCollins Publishers	The witch and bounty hunter Rachel Morgan must evade shape-shifting assassins and vampires in order to clear her name; Book 1 of the Hollows series.		3/24/2012	32	0
+9780143034759	ALEXANDER HAMILTON	Ron Chernow	Penguin	A biography of the first Treasury secretary and one of the Founding Fathers of the United States. The basis of the Tony Award-winning Broadway musical.	https://www.nytimes.com/2004/04/25/books/creating-capitalism.html	9/19/2020	13	119
+9780812968972	The Birth of Venus: A Novel	Sarah Dunant			https://www.nytimes.com/2004/03/07/books/girl-with-a-snake-tattoo.html	null	null	null
+9780679433132	The Divine Comedy: Inferno; Purgatorio; Paradiso (Everyman's Library)	Dante Alighieri			https://www.nytimes.com/2000/07/23/books/working-their-way-to-the-top.html	null	null	null
+9781891830433	BLANKETS	Craig Thompson	Top Shelf Productions	This semi-autobiographical tale is about sibling rivalry and a first love.		12/17/2011	8	1
+9780385495226	THE HOT ZONE	Richard Preston	Anchor	"The discovery of the Ebola virus, and the efforts to keep it from spreading; first published in 1994."		12/27/2014	9	0
+9780393324815	MONEYBALL	Michael Lewis	Norton	How the Oakland Athletics built a successful team despite one of the smallest payrolls in baseball.		4/25/2015	11	0
+9780451219947	MORGANVILLE VAMPIRES	Rachel Caine	New American Library	Vampires in town.		11/9/2013	10	12
+9780060512804	Cryptonomicon	Neal Stephenson			https://www.nytimes.com/1999/05/23/books/click-here.html	null	null	null
+9780316155601	MAXIMUM RIDE	James Patterson	"Little, Brown & Company"	Winged children try to save the world.		6/6/2015	10	81
+9780380727506	NOTES FROM A SMALL ISLAND	Bill Bryson	Morrow	An affectionate and irreverent walking tour of Britain. Originally published in 1996.		4/30/2016	4	0
+9780316601955	The Pilot's Wife (Oprah's Book Club)	Anita Shreve			https://www.nytimes.com/1998/06/07/books/carry-on-baggage.html	null	null	null
+9780345439109	Drowning Ruth: A Novel (Oprah's Book Club)	Christina Schwarz			https://www.nytimes.com/2000/09/10/books/thin-ice.html	null	null	null
+9781400033423	SONG OF SOLOMON	Toni Morrison	Vintage	"Winner of the 1977 National Book Critics Circle Award for fiction. The coming-of-age story of Macon ""Milkman"" Dead III, a descendant of slaves."		8/10/2019	9	1
+9789574301683	WILD SWANS	Jung Chang	Touchstone	The story of three generations of women in 20th-century China.	https://www.nytimes.com/1991/10/13/books/when-nuances-meant-life-or-death.html	8/2/2014	14	5
+9780141001821	IN THE HEART OF THE SEA	Nathaniel Philbrick	Penguin	"The sinking of the New England whaleship Essex in 1820, by a sperm whale. The basis of the movie."	https://www.nytimes.com/2000/06/04/books/whaling-away.html	12/31/2016	8	0
+9780767903868	In a Sunburned Country	Bill Bryson			https://www.nytimes.com/2000/08/20/books/how-to-speak-australian.html	null	null	null
+9780385340540	The Broker	John Grisham				null	null	null
+9780671869205	TRUMAN	David McCullough	Simon & Schuster	A biography of the 33rd president; originally published in 1992.	https://www.nytimes.com/1992/06/21/books/work-hard-trust-in-god-have-no-fear.html	1/26/2013	32	0
+9780385720106	A Map of the World (Oprah's Book Club)	Jane Hamilton			https://www.nytimes.com/1994/07/17/books/witch-hunt-in-prairie-center.html	null	null	null
+9780385337939	A Painted House	John Grisham			https://www.nytimes.com/2001/03/04/books/no-lawyers-allowed.html	null	null	null
+9780143038108	The Kitchen God's Wife	Amy Tan			https://www.nytimes.com/1991/06/16/books/pangs-of-an-abandoned-child.html	null	null	null
+9780618346257	THE MIRACULOUS JOURNEY OF EDWARD TULANE	Kate DiCamillo.	Candlewick		https://www.nytimes.com/2006/05/14/books/review/14hearn.html	2/27/2021	10	0
+9780140283334	Peter and the Starcatchers	Ridley Pearson			https://www.nytimes.com/2004/11/14/books/review/14GORRASC.html	null	null	null
+9780142000670	WHAT IS THE WHAT	Dave Eggers	Knopf Publishing Group		https://www.nytimes.com/2007/10/14/books/review/paperbackrow.html	8/30/2008	31	0
+9780345533371	Intensity	Dean Koontz			https://www.nytimes.com/1996/02/25/books/murderers-row.html	null	null	null
+9780451529305	A Long Way Down	Nick Hornby			https://www.nytimes.com/2005/06/12/books/review/12HEATHL.html	null	null	null
+9780812973013	MOUNTAINS BEYOND MOUNTAINS	Tracy Kidder	Random House	"A portrait of Dr. Paul Farmer, who works with the Haitian poor."	https://www.nytimes.com/2003/09/14/books/a-season-in-hell.html	8/22/2010	31	0
+9780553383713	Emotional Intelligence: 10th Anniversary Edition; Why It Can Matter More Than IQ	Daniel Goleman			https://www.nytimes.com/1995/09/17/books/ruling-passions.html	null	null	null
+9780743236010	"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto"	Chuck Klosterman			https://www.nytimes.com/2003/09/14/books/outside-the-tastee-freeze.html	null	null	null
+9780141439587	THE SPIRIT CATCHES YOU AND YOU FALL DOWN	Anne Fadiman	"Farrar, Straus & Giroux"	A collision of western medicine with the deeply held spiritual and religious practices of Hmong refugees has tragic consequences for the latter's young epileptic child.		8/27/2016	20	0
+9780312321185	The Vampire Armand (The Vampire Chronicles) Book 6	Anne Rice			https://www.nytimes.com/1998/12/20/books/books-in-brief-fiction-375268.html	null	null	null
+9780061139376	The Jane Austen Book Club	Karen Joy Fowler			https://www.nytimes.com/2004/05/02/books/review/02OCONNT.html	null	null	null
+9780312360269	Birdsong: A Novel of Love and War	Sebastian Faulks			https://www.nytimes.com/1996/02/11/books/tunnel-vision.html	null	null	null
+9780393327342	The Body Farm (A Scarpetta Novel)	Patricia Cornwell			https://www.nytimes.com/1994/10/16/books/among-the-cadavers.html	null	null	null
+9780747263746	Persepolis 2: The Story of a Return	Marjane Satrapi			https://www.nytimes.com/2004/08/22/books/she-can-t-go-home-again.html	null	null	null
+9780517223628	While I Was Gone (Oprah's Book Club)	Sue Miller			https://www.nytimes.com/1999/02/21/books/the-good-wife.html	null	null	null
+9780590920681	1491	Charles C Mann	Vintage	A portrait of pre-Columbian life in the Americas.		11/28/2015	4	0
+9780060513061	Less Than Zero	Bret Easton Ellis			https://www.nytimes.com/1985/06/16/books/in-short-fiction-050756.html	null	null	null
+9780061120077	Galapagos: A Novel (Delta Fiction)	Kurt Vonnegut			https://www.nytimes.com/1985/10/06/books/how-humans-got-flippers-and-beaks.html	null	null	null
+9780452011878	Prep: A Novel	Curtis Sittenfeld			https://www.nytimes.com/2006/02/12/books/review/12sittenfield.html	null	null	null
+9780743496728	Confessions of an Ugly Stepsister: A Novel	Gregory Maguire			https://www.nytimes.com/1999/12/12/books/books-in-brief-fiction-706310.html	null	null	null
+9780743418171	On Beauty	Zadie Smith			https://www.nytimes.com/2005/09/18/books/review/18rich.html	null	null	null
+9780060855925	The Liars' Club: A Memoir	Mary Karr			https://www.nytimes.com/1996/05/05/books/new-noteworthy-paperbacks-023540.html	null	null	null
+9780142437018	Saturday	Ian McEwan				null	null	null
+9781401207922	THE INNOCENT MAN	John Grisham	Bantam/Dell	Grisham's first nonfiction book concerns a man wrongly sentenced to death.	https://www.nytimes.com/2006/12/10/books/review/Lewine.t.html	4/6/2019	15	55
+9781400031702	BATMAN: ARKHAM ASYLUM	Grant Morrison and Dave McKean	DC Comics	"In this critically-acclaimed paint graphic novel, Batman finds himself facing off against his major villains at a home for criminally insane."		8/4/2012	10	24
+9780689865398	The Demon-Haunted World: Science as a Candle in the Dark	Ann Druyan			https://www.nytimes.com/1996/04/07/books/invasion-of-the-body-snatchers.html	null	null	null
+9780375757327	SALT	Mark Kurlansky	Penguin Group	"The economic, political, chemical and industrial story behind a valuable substance."	https://www.nytimes.com/2002/02/24/books/nacl.html	12/3/2011	14	1
+9781400044610	I'm a Stranger Here Myself: Notes on Returning to America After 20 Years Away	Bill Bryson			https://www.nytimes.com/1999/05/30/books/notes-from-a-huge-landmass.html	null	null	null
+9781416500186	March	Geraldine Brooks			https://www.nytimes.com/2005/03/27/books/review/027MALLON.html	null	null	null
+9780743482769	THE BLACK ICE	Michael Connelly	"Little, Brown"	The Los Angeles detective Harry Bosch investigates the scandalous death of a narcotics officer.		7/16/2016	20	0
+9780812513738	BITTER IS THE NEW BLACK	Jen Lancaster	NAL			11/29/2014	11	0
+9781607061717	ALONE	Lisa Gardner	Random House	A woman who survived a horrible childhood abduction may have tricked the Massachusetts police sniper Bobby Dodge into killing her husband.		3/26/2011	35	0
+9780802119766	Here on Earth (Oprah's Book Club)	Alice Hoffman			https://www.nytimes.com/1997/09/14/books/heathcliff-redux.html	null	null	null
+9780451188458	Lost in a Good Book (A Thursday Next Novel)	Jasper Fforde			https://www.nytimes.com/2003/06/22/books/characters-in-search-of-an-exit.html	null	null	null
+9780060776091	Rainbow Six	Tom Clancy			https://www.nytimes.com/1998/08/30/books/books-in-brief-fiction-469513.html	null	null	null
+9780375706677	Debt of Honor (Jack Ryan)	Tom Clancy			https://www.nytimes.com/1994/10/02/books/crime-mystery-megabashing-japan.html	null	null	null
+9780140424393	I FEEL BAD ABOUT MY NECK	Nora Ephron	Vintage	A witty look at aging from the novelist and screenwriter who died on June 26.	https://www.nytimes.com/2006/08/20/books/review/20Schillinger.html	8/18/2012	31	0
+9780743264730	Beach Music: A Novel	Pat Conroy			https://www.nytimes.com/1995/07/02/books/you-can-go-home-again-and-again.html	null	null	null
+9780450524684	Theodore Rex	Edmund Morris			https://www.nytimes.com/2001/12/09/books/carrying-sticks-and-hugging-trees.html	null	null	null
+9780141439655	No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II	Doris Kearns Goodwin			https://www.nytimes.com/1994/09/11/books/affairs-both-foreign-and-domestic.html	null	null	null
+9780141318301	"1,000 PLACES TO SEE BEFORE YOU DIE"	Patricia Schultz	Workman	A guide for traveling the world; second edition updated with new entries.		3/28/2015	10	0
+9780441172696	Amsterdam: A Novel	Ian McEwan			https://www.nytimes.com/1998/12/27/books/publish-and-perish.html	null	null	null
+9780440236702	Merrick (Vampire/Witches Chronicles)	Anne Rice			https://www.nytimes.com/2000/12/17/books/books-in-brief-fiction-poetry-570770.html	null	null	null
+9780451460912	The Bookseller of Kabul	Asne Seierstad			https://www.nytimes.com/2003/12/21/books/the-war-at-home.html	null	null	null
+9780061020704	"THE WALKING DEAD, BOOK 1"	"Robert Kirkman, Tony Moore and Charlie Adlard"	Image Comics	This collected edition features the first 12 issues of the gripping series about the last human survivors in a world overrun by zombies.		3/28/2015	8	117
+9780312304355	Housekeeping: A Novel	Marilynne Robinson			https://www.nytimes.com/1981/02/08/books/pleasure-and-loss.html	null	null	null
+9780679729525	Complications: A Surgeon's Notes on an Imperfect Science	Atul Gawande			https://www.nytimes.com/2002/04/07/books/oops.html	null	null	null
+9780060852559	The Plot Against America	Philip Roth			https://www.nytimes.com/2004/10/03/books/review/the-plot-against-america.html	null	null	null
+9780689878565	Truth & Beauty: A Friendship	Ann Patchett			https://www.nytimes.com/2004/05/16/books/do-you-love-me.html	null	null	null
+9780312423797	"The Queen of Attolia (The Queen's Thief, Book 2)"	Megan Whalen Turner			https://www.nytimes.com/2000/08/13/books/children-s-books-526223.html	null	null	null
+9780385333139	THUNDERSTRUCK	Erik Larson	Broadway	"Intertwined stories of early-20th-century murder and scientific intrigue, by the author of ""The Devil in the White City""; first published in 2006."	https://www.nytimes.com/2006/11/05/books/review/Baker.t.html	5/30/2015	11	0
+9780446612548	"Swann's Way: In Search of Lost Time, Vol. 1 (Penguin Classics Deluxe Edition)"	Marcel Proust			https://www.nytimes.com/2004/01/25/books/the-shape-of-time.html	null	null	null
+9780393329124	Spook: Science Tackles the Afterlife	Mary Roach			https://www.nytimes.com/2005/10/09/books/review/spook-ghost-trusters.html	null	null	null
+9780743246989	"WHEREVER YOU GO, THERE YOU ARE"	Jon Kabat-Zinn	Hyperion			6/27/2015	13	0
+9780141303529	A Long Way From Chicago (Puffin Modern Classics)	Richard Peck			https://www.nytimes.com/1999/03/14/books/children-s-books-bookshelf-622931.html	null	null	null
+9780451529558	"The End of Faith: Religion, Terror, and the Future of Reason"	Sam Harris			https://www.nytimes.com/2004/09/05/books/review/05ANGIERL.html	null	null	null
+9780671742515	Fever Pitch	Nick Hornby			https://www.nytimes.com/1994/06/19/books/just-for-kicks.html	null	null	null
+9780316769174	The Oresteia: Agamemnon; The Libation Bearers; The Eumenides	Aeschylus			https://www.nytimes.com/1999/09/05/books/after-the-trojan-horse.html	null	null	null
+9780380715435	THE MOTHER TONGUE	Bill Bryson	William Morrow	A celebration of the resilience of the English language; first published in 1990 and just reissued.		6/27/2015	2	0
+9783453675100	THE DIRT	"Tommy Lee, Vince Neil, Mick Mars, Nikki Sixx and Neil Strauss"	Dey St.	The story of Mötley Crüe as told by the four original members of the band.		4/13/2019	15	3
+9780802133908	Pedro Paramo (Idiomas Y Literatura) (Spanish Edition)	Juan Rulfo			https://www.nytimes.com/1995/08/06/books/thoughts-after-death.html	null	null	null
+9780553816716	A SUPPOSEDLY FUN THING I'LL NEVER DO AGAIN	David Foster Wallace	"Little, Brown"		https://www.nytimes.com/1997/03/16/news/a-supposedly-fun-thing-i-ll-never-do-again.html	10/4/2008	26	0
+9780143039563	Pompeii: A Novel	Robert Harris			https://www.nytimes.com/2003/12/21/books/the-age-of-aquarii.html	null	null	null
+9780451528827	Saving Fish from Drowning: A Novel (Ballantine Reader's Circle)	Amy Tan			https://www.nytimes.com/2005/10/16/books/review/16solomon.html	null	null	null
+9780618346264	Teacher Man: A Memoir	Frank McCourt			https://www.nytimes.com/2005/12/04/books/review/04yagoda.html	null	null	null
+9780142403884	Behind the Scenes at the Museum: A Novel	Kate Atkinson			https://www.nytimes.com/1996/03/31/books/yorkshire-terrors.html	null	null	null
+9780141301068	Killing Yourself to Live: 85% of a True Story	Chuck Klosterman			https://www.nytimes.com/2005/07/24/books/review/24ZACHAREK.html	null	null	null
+9780143058144	A Year Down Yonder	Richard Peck			https://www.nytimes.com/2001/03/11/books/children-s-books-202290.html	null	null	null
+9780450417399	You Shall Know Our Velocity	Dave Eggers			https://www.nytimes.com/2002/11/10/books/we-are-the-fourth-world.html	null	null	null
+9780446670111	Einstein's Dreams	Alan Lightman			https://www.nytimes.com/1993/01/03/books/a-kiss-is-just-a-kiss-of-immediacy.html	null	null	null
+9780330319478	Toujours Provence	Peter Mayle			https://www.nytimes.com/1991/06/09/books/a-little-truck-stop-in-the-south-of-france.html	null	null	null
+9780307279460	We Wish to Inform You That Tomorrow We Will be Killed With Our Families: Stories from Rwanda	Philip Gourevitch			https://www.nytimes.com/1998/10/04/books/hearts-of-darkness.html	null	null	null
+9780812968064	Fierce Invalids Home From Hot Climates	Tom Robbins			https://www.nytimes.com/2000/05/21/books/sex-drugs-and-subatomic-particles.html	null	null	null
+9780552995870	THE LOST PAINTING	Jonathan Harr	Random House	A young art historian's high-stakes search for a missing Caravaggio masterpiece. Originally published in 2005.	https://www.nytimes.com/2005/11/13/books/review/the-lost-painting-the-caravaggio-trail.html	4/30/2016	4	1
+9780743223133	Lunar Park	Bret Easton Ellis				null	null	null
+9780439227148	SOMETHING BORROWED	Emily Giffin	St. Martin’s Griffin	"A diligent maid of honor to her charmed best friend, Rachel White has always played by the rules. But that changes on the night of her 30th birthday."		9/3/2011	18	14
+9780451216953	The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World	A. J. Jacobs			https://www.nytimes.com/2004/10/03/books/review/03QUEENAN.html	null	null	null
+9780439321600	Anne Frank: Beyond the Diary - A Photographic Remembrance	Rian Verhoeven			https://www.nytimes.com/1993/09/19/books/children-s-books-bookshelf-163093.html	null	null	null
+9780743298025	Brick Lane: A Novel	Monica Ali			https://www.nytimes.com/2003/09/07/books/east-enders.html	null	null	null
+9780446676076	"Blind Willow, Sleeping Woman: Twenty-four Stories"	Haruki Murakami			https://www.nytimes.com/2006/09/17/books/review/Rafferty2.t.html	null	null	null
+9780307348241	Scarlet Feather	Maeve Binchy			https://www.nytimes.com/2001/03/25/books/books-in-brief-fiction-426660.html	null	null	null
+9780937832387	Until I Find You	John Irving			https://www.nytimes.com/2005/07/17/books/review/17GRAY.html	null	null	null
+9780001000391	GUARDIANS OF GA’HOOLE	Kathryn Lasky	"Scholastic, paper only"	Owls are the wise guides in this fantasy world.		10/10/2010	9	5
+9782253147695	Filth	Irvine Welsh			https://www.nytimes.com/1998/09/27/books/a-lewd-fellow-of-the-baser-sort.html	null	null	null
+9780451210852	Gates of Fire: An Epic Novel of the Battle of Thermopylae	Steven Pressfield			https://www.nytimes.com/1998/11/01/books/you-are-there.html	null	null	null
+9780425134351	Cathedral	Raymond Carver			https://www.nytimes.com/1983/09/11/books/stories-of-our-loneliness.html	null	null	null
+9780099428640	WINTER'S TALE	Mark Helprin	Mariner/Houghton Mifflin Harcourt	"In 19th-century New York, an Irish burglar begins a love affair with a beautiful concert pianist dying of consumption; the basis for the movie."		3/29/2014	21	0
+9780374105235	"THE WALKING DEAD, VOL. 5"	Robert Kirkman and Charlie Adlard	Image Comics	"Rick and his group meet someone worse than the zombies: the Governor, who keeps his own community safe but at considerable cost. And he wants to expand his territory."		4/7/2012	9	2
+9780451527882	The Naked and the Dead: 50th Anniversary Edition	Norman Mailer			https://www.nytimes.com/2000/08/13/books/new-noteworthy-paperbacks-471097.html	null	null	null
+9780679420071	Written on the Body	Jeanette Winterson			https://www.nytimes.com/1993/02/14/books/loss-is-the-measure-of-love.html	null	null	null
+9780743272490	I Am Charlotte Simmons: A Novel	Tom Wolfe			https://www.nytimes.com/2004/11/28/books/28WEISBER.html	null	null	null
+9780140449143	Ghostwritten	David Mitchell			https://www.nytimes.com/2000/09/17/books/caller-no-1.html	null	null	null
+9780765342409	The Game: Penetrating the Secret Society of Pickup Artists	Neil Strauss			https://www.nytimes.com/2005/09/11/books/review/11jacobs.html	null	null	null
+9780060574215	Falling Angels: A Novel	Tracy Chevalier			https://www.nytimes.com/2001/11/04/books/post-victoriana.html	null	null	null
+9781420925432	The Ancestor's Tale: A Pilgrimage to the Dawn of Evolution	Richard Dawkins			https://www.nytimes.com/2004/10/17/books/review/17ZIMMERL.html	null	null	null
+9780307237699	When Genius Failed: The Rise and Fall of Long-Term Capital Management	Roger Lowenstein			https://www.nytimes.com/2000/09/24/books/more-was-less-and-less-and-less.html	null	null	null
+9780812976144	Sick Puppy	Carl Hiaasen			https://www.nytimes.com/2000/01/09/books/everything-is-rotten-in-the-state-of-florida.html	null	null	null
+9780689707490	Paradise (Oprah's Book Club)	Toni Morrison			https://www.nytimes.com/1998/01/11/books/the-promised-land.html	null	null	null
+9780345419620	The Dive From Clausen's Pier: A Novel	Ann Packer			https://www.nytimes.com/2002/05/12/books/guilt-trip.html	null	null	null
+9780425197547	Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem	Simon Singh			https://www.nytimes.com/1997/11/30/books/qed.html	null	null	null
+9780684801223	The Sea	John Banville			https://www.nytimes.com/2005/11/27/books/review/drowning-man.html	null	null	null
+9780755324422	Family Matters	Rohinton Mistry			https://www.nytimes.com/2002/10/13/books/king-lear-in-bombay.html	null	null	null
+9780812513752	The Tiger Rising	Kate DiCamillo			https://www.nytimes.com/2001/06/03/books/children-s-books-in-brief-475920.html	null	null	null
+9780060510862	Mother of Pearl (Oprah's Book Club)	Melinda Haynes			https://www.nytimes.com/1999/06/27/books/the-talk-of-petal-miss.html	null	null	null
+9780142437346	Democracy in America (Penguin Classics)	Alexis de Tocqueville			https://www.nytimes.com/2001/01/14/books/tocqueville-for-the-neocons.html	null	null	null
+9780141439617	Plan B: Further Thoughts on Faith	Anne Lamott			https://www.nytimes.com/2005/05/01/books/review/01WINNERL.html	null	null	null
+9780553213973	Heat	Mike Lupica			https://www.nytimes.com/2006/06/04/books/review/04rubin.html	null	null	null
+9780451412355	The Blank Slate: The Modern Denial of Human Nature	Steven Pinker			https://www.nytimes.com/2002/10/13/books/the-evolutionary-war.html	null	null	null
+9780141439839	Out: A Novel	Natsuo Kirino			https://www.nytimes.com/2003/08/17/books/books-in-brief-fiction-828521.html	null	null	null
+9780451196712	Glamorama (Vintage Contemporaries)	Bret Easton Ellis			https://www.nytimes.com/1999/01/24/books/lesser-than-zero.html	null	null	null
+9780385339094	A Complicated Kindness: A Novel	Miriam Toews			https://www.nytimes.com/2005/01/23/books/review/23SCHILLI.html	null	null	null
+9780143036494	THE GREAT INFLUENZA	John M. Barry	Penguin	An overview of the 1918 flu epidemic and cautionary tale for similar kinds of large-scale outbreaks.	https://www.nytimes.com/2004/03/14/books/review/14GEWENT.html	8/15/2020	15	17
+9780517222850	Rose Daughter	Robin McKinley			https://www.nytimes.com/1998/01/18/books/children-s-books-998575.html	null	null	null
+9780316926348	I DON’T KNOW HOW SHE DOES IT	Allison Pearson	Anchor	"Pearson’s beleaguered heroine, a 35-year-old hedge fund manager in London, struggles to be supermom, loving wife and business whiz."		10/1/2011	35	0
+9780446696630	The Beauty Myth: How Images of Beauty Are Used Against Women	Naomi Wolf			https://www.nytimes.com/1991/05/19/books/does-your-flesh-wobble-and-seem-dimpled.html	null	null	null
+9780385339681	THE IDIOT GIRLS' ACTION-ADVENTURE CLUB	Laurie Notaro	Random House	A collection of humorous columns written for The Arizona Republic; originally published in 2002.		7/25/2015	12	0
+9780060885434	Baudolino	Umberto Eco			https://www.nytimes.com/2002/11/03/books/for-sale-head-of-john-the-baptist-box-of-7.html	null	null	null
+9780060838591	"Krakatoa: The Day the World Exploded: August 27, 1883"	Simon Winchester			https://www.nytimes.com/2003/04/20/books/the-island-that-went-straight-up.html	null	null	null
+9780142437179	ESSENTIALS OF CLASSIC ITALIAN COOKING	Marcella Hazan	Knopf	A revised and expanded edition of the 20 year old manual.		10/26/2013	16	0
+9780517189603	Children of God (Ballantine Reader's Circle)	Mary Doria Russell			https://www.nytimes.com/1998/05/24/books/books-in-brief-fiction-964620.html	null	null	null
+9780395488898	In the Lake of the Woods	Tim O'Brien			https://www.nytimes.com/1994/10/09/books/a-self-made-man.html	null	null	null
+9780749323851	The Gun Seller	Hugh Laurie			https://www.nytimes.com/1997/06/08/books/bertie-wooster-meets-james-bond.html	null	null	null
+9780385337632	Crow Lake (Today Show Book Club #7)	Mary Lawson			https://www.nytimes.com/2002/03/24/books/the-girl-she-left-behind.html	null	null	null
+9780679772675	A Civil Action	Jonathan Harr			https://www.nytimes.com/1995/09/10/books/toxic-business.html	null	null	null
+9780345452887	Standing in the Rainbow (Ballantine Reader's Circle)	Fannie Flagg			https://www.nytimes.com/2002/08/11/books/neighbor-dot-and-aunt-elner.html	null	null	null
+9780060775858	BLOWBACK	Brad Thor	Pocket			3/26/2011	32	0
+9780143039655	Malgudi Days (Penguin Classics)	R. K. Narayan			https://www.nytimes.com/1982/03/07/books/narayan-country.html	null	null	null
+9780141038377	The Consolations of Philosophy	Alain De Botton			https://www.nytimes.com/2000/05/14/books/the-socratic-method.html	null	null	null
+9780689840920	The Red Queen: Sex and the Evolution of Human Nature	Matt Ridley			https://www.nytimes.com/1994/05/22/books/the-birds-the-bees-and-the-coolidges.html	null	null	null
+9780613371650	Anil's Ghost: A Novel	Michael Ondaatje			https://www.nytimes.com/2000/05/14/books/a-house-divided.html	null	null	null
+9780399145797	All Tomorrow's Parties	William Gibson			https://www.nytimes.com/1999/11/21/books/virtual-novel.html	null	null	null
+9781400034772	The Amateur Marriage: A Novel	Anne Tyler			https://www.nytimes.com/2004/01/11/books/unhappily-ever-after.html	null	null	null
+9780060885373	The Stories of Eva Luna	Isabel Allende			https://www.nytimes.com/1991/01/20/books/fish-fall-from-the-sky-for-a-reason.html	null	null	null
+9780743477154	The City of Falling Angels	John Berendt			https://www.nytimes.com/2005/09/25/books/review/the-city-of-falling-angels-theres-life-after-lady-chablis.html	null	null	null
+9780553378498	The Brothers K	David James Duncan			https://www.nytimes.com/1992/06/28/books/pinch-hitting-for-dostoyevsky.html	null	null	null
+9780385074070	Close Range : Wyoming Stories	Annie Proulx			https://www.nytimes.com/1999/05/23/books/don-t-fence-me-in.html	null	null	null
+9780805063899	Our Band Could Be Your Life: Scenes from the American Indie Underground 1981-1991	Michael Azerrad			https://www.nytimes.com/2001/08/12/books/notes-from-underground.html	null	null	null
+9780064410342	Omerta (Policiaca) (Spanish Edition)	Mario Puzo			https://www.nytimes.com/2000/07/16/books/books-in-brief-fiction-093890.html	null	null	null
+9780345476883	Paris to the Moon	Adam Gopnik			https://www.nytimes.com/2000/10/22/books/there-s-there-there.html	null	null	null
+9780375755194	Sailing Alone Around the Room: New and Selected Poems	Billy Collins			https://www.nytimes.com/2001/09/23/books/stand-up-poet.html	null	null	null
+9780671244095	THE PATH BETWEEN THE SEAS	David McCullough	Simon & Schuster	A history of the creation of the Panama Canal; first published in 1977.		5/30/2015	12	0
+9780760728505	There Are No Children Here: The Story of Two Boys Growing Up in The Other America	Alex Kotlowitz			https://www.nytimes.com/1991/04/14/books/growing-up-in-the-graveyard.html	null	null	null
+9780395488294	Homicide: A Year on the Killing Streets	David Simon			https://www.nytimes.com/1991/08/04/books/in-short-nonfiction-475891.html	null	null	null
+9781594482229	The Areas of My Expertise	John Hodgman			https://www.nytimes.com/2005/11/06/books/review/06alford.html	null	null	null
+9780198320272	Them: Adventures with Extremists	Jon Ronson			https://www.nytimes.com/2002/01/13/books/beyond-the-fringe.html	null	null	null
+9780743482776	Desert Flower: The Extraordinary Journey of a Desert Nomad	Cathleen Miller			https://www.nytimes.com/1999/01/03/books/books-in-brief-nonfiction-593745.html	null	null	null
+9780316109697	Istanbul: Memories and the City	Orhan Pamuk			https://www.nytimes.com/2005/06/12/books/review/12DEBELLA.html	null	null	null
+9780345455918	The Probable Future (Ballantine Reader's Circle)	Alice Hoffman			https://www.nytimes.com/2003/07/06/books/bewitched.html	null	null	null
+9780446611084	The Hungry Tide: A Novel	Amitav Ghosh			https://www.nytimes.com/2005/07/31/books/review/31TEPPERL.html	null	null	null
+9780691096124	American Tabloid: A Novel	James Ellroy			https://www.nytimes.com/1995/02/26/books/en-route-to-the-grassy-knoll.html	null	null	null
+9781463649937	Leviathan	Paul Auster			https://www.nytimes.com/1992/09/20/books/all-this-might-never-have-happened.html	null	null	null
+9780425193792	Arthur & George	Julian Barnes				null	null	null
+9780060652890	Shalimar the Clown: A Novel	Salman Rushdie				null	null	null
+9781857232097	GUARDIANS OF GA’HOOLE	Kathryn Lasky	"Scholastic, paper only"	Owls are the wise guides in this fantasy world.		10/10/2010	9	5
+9780316767729	The Way the Crow Flies: A Novel (P.S.)	Ann-Marie MacDonald			https://www.nytimes.com/2003/11/02/books/canada-s-cold-war.html	null	null	null
+9780805076882	Hegemony or Survival: America's Quest for Global Dominance (American Empire Project)	Noam Chomsky			https://www.nytimes.com/2004/01/04/books/the-everything-explainer.html	null	null	null
+9780802141903	Reservation Blues	Sherman Alexie			https://www.nytimes.com/1995/07/16/books/longing-for-magic.html	null	null	null
+9780812550283	The Children of Henry VIII	Alison Weir			https://www.nytimes.com/1996/08/04/books/sibling-rivalry.html	null	null	null
+9780385340397	The Comfort of Strangers	Ian McEwan			https://www.nytimes.com/1981/07/05/books/traveling-in-peril.html	null	null	null
+9780142000281	Carter Beats the Devil	Glen David Gold			https://www.nytimes.com/2001/09/30/books/something-up-his-sleeve.html	null	null	null
+9780151004218	All the Names	Margaret Costa			https://www.nytimes.com/2000/10/15/books/let-s-look-at-the-records.html	null	null	null
+9780765304360	Down and Out in the Magic Kingdom	Cory Doctorow			https://www.nytimes.com/2003/03/09/books/does-that-mean-we-can-defrost-walt.html	null	null	null
+9781573225786	Blackberry Wine: A Novel	Joanne Harris			https://www.nytimes.com/2001/02/25/books/books-in-brief-fiction-poetry-948152.html	null	null	null
+9781585424337	Oblivion: Stories	David Foster Wallace			https://www.nytimes.com/2004/06/27/books/staring-either-absently-or-intently.html	null	null	null
+9781484707234	PERCY JACKSON & THE OLYMPIANS	Rick Riordan	Disney-Hyperion	A boy battles mythological monsters.	https://www.nytimes.com/2009/05/31/books/review/Devereaux-t.html	3/12/2022	4	613
+9780375822070	Old Filth	Jane Gardam			https://www.nytimes.com/2006/07/23/books/review/23gray.html	null	null	null
+9780552152976	Drop City	T.C. Boyle			https://www.nytimes.com/2003/02/23/books/i-m-jerry-and-he-s-pigpen.html	null	null	null
+9780425204238	The Fall of Berlin 1945	Antony Beevor			https://www.nytimes.com/2002/09/08/books/the-final-days.html	null	null	null
+9780553213294	GUARDIANS OF GA’HOOLE	Kathryn Lasky	"Scholastic, paper only"	Owls are the wise guides in this fantasy world.		10/10/2010	9	5
+9780140449334	Black Wind (Dirk Pitt Adventure)	Dirk Cussler			https://www.nytimes.com/2004/12/26/books/review/26SCHONEL.html	null	null	null
+9781573223560	Songbook	Nick Hornby			https://www.nytimes.com/2003/02/16/books/hitsville-uk.html	null	null	null
+9780786809967	Be More Chill	Ned Vizzini			https://www.nytimes.com/2004/05/16/books/children-s-books-in-brief-501328.html	null	null	null
+9780060928414	Slowness: A Novel	Milan Kundera			https://www.nytimes.com/1996/07/07/books/speed.html	null	null	null
+9780375760525	Paris 1919: Six Months That Changed the World	Margaret MacMillan			https://www.nytimes.com/2002/12/01/books/we-ll-always-have-paris.html	null	null	null
