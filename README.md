@@ -102,7 +102,7 @@ The isbn-13, which would later become our book id, was in scientific notation an
    
  ![alt_txt](Resources/sql_image4.png) 
  
- ## Problems Encountered Througout This Project
+ ## Problems Encountered Throughout This Project
  
  - API pull took over 4 hours to pull 2,000 book titles. 
  - ISBN-13 were incorrect in some instances and had to be manually inputted after searching for them online. 
