@@ -3,46 +3,61 @@
 
 
 
-# ETL:
+## ETL:
 
 __Extract:__ read the data, often from multiple sources/formats.
+- Extracted book titles, ratings, genre, and the number of book pages from the Goodreads CSV file.
+- Extracted data from NYT API based on ISBN
+
 
 __Transform:__ clean and structure the data to suit business needs.
+- Cleaned data by removing irrelelevant columns.
+- Renamed columns.
+- Located and corrected duplicate values.
+- Created an ERD table by defining primary keys and relative information to join tables. 
+- Link to _[ERD](Resources/erd.png)_
 
 __Load:__ load the data into a database for storage that can be used for future analysis or business use.
 
+- Exported pandas df to a csv file. 
+- Merged data into SQL database.
+
+
+
 ##  Objective: 
-##### We chose two data sources to analyze the bestselling books throughout several years for our project. 
+####  To create a consolidated database with information on books, i.e., bestsellers, bestselling authors, highest rated books, and year. 
+ 
 
 
-__[Group Repo](https://github.com/JWatson1102/Project_2.git)__
 
 
-### Members:
+
+## Members: _[Group Repo](https://github.com/JWatson1102/Project_2.git)_
 
 - Josh Watson
 - Amy Castillon
 - George Vallejo
 - Mindy Garcia
 
+     
 
 
 
 ***
-With over a million new releases each year, the book industry can seem daunting when looking for a good read. However, finding the bestsellers, ratings, and book size can help customers decide if they should start that lengthy novel over their short weekend. 
+Over 900 million books are sold in the US each year. The pandemic brought a surge in book sales, with 2020 setting a record for print and ebook sales. In addition, there are over 2 million released each year. With this many sales and releases, it can be daunting to find your next read, even more so if you're opening up a small bookshop. Across the US, rent has risen, making it difficult for small businesses, so many people have decided to take their business venture on wheels, including bookshops. As a result, there has been an emergence of "Books on Wheels" shops popping up across the US. With such a small space, owners must have the most relevant books in stock. Our dataset can help business owners find recently listed books in the NYT bestsellers list and find what has remained a top seller throughout the years. In addition, Goodreads is a top-rated book app that gives bookworms a place to see reviews and ratings. Combining these two datasets will help bookstores or readers find the most popular and relevant books to stock up on. 
 
 ***
 
-## 1. Data sources:
+## Data sources:
 
 > - __[New York Times API ](https://developer.nytimes.com/docs/books-product/1/routes/lists.json/get)__ 
 
 > - __[Goodreads Books](https://www.kaggle.com/jealousleopard/goodreadsbooks?select=books.csv)__ 
 
-> The two sources we extracted were in different formats. Goodreads data was extracted from Kaggle in CSV form. Our NYT data was extracted from an API in JSON format. Once we extracted the data from both sources, we then exported the data into CSV files. 
+> The two sources we extracted were in different formats. Goodreads data was extracted from Kaggle in CSV form. Our NYT data was extracted from an API in JSON format. Once we pulled the data from both sources, we then exported the data into CSV files. Finally, we created schemas and uploaded the CSV files into their respective tables so we could perform joins and queries.
 
 
-# Data Cleaning: CSV File
+## Data Cleaning: CSV File
 The original csv file (book.csv)looked as follows: 
 
 ![alt txt](Resources/Excel_screenshot.png)
@@ -57,7 +72,25 @@ The isbn-13, which would later become our book id, was in scientific notation an
 
  The resulting table provided a cleaner and more readable information tool.
 
-
+ ## Data Extraction: New York Times API
+ - Imported book_df.csv which contained 11,127 ISBN-13's and saved as a dataframe
+ - Sorted dataframe from highest number of total ratings to lowest
+ - Once sorted, saved the ISBN-13's into a list to be able to query
+ - Used a loop to query the NYT API for the first 2,000 ISBN-13's
+ - Queried 500 at a time due to how long it took, and to minimize errors
+ - After first 500 queried, printed response list and realized multiple ISBN-13's were not on the NY Times Best Seller list, or were missing information
+ - Created for-loop for response list to append query results into lists and created column names
+ - Continued to query 500 at a time until we queried a total of 2,000 ISBN-13's
+ - Created separate dataframes for each query of 500
+ - Of the 2,000 ISBN-13's queried, only 267 were on the NY Times Best Seller list
+ - Merged all dataframes into one and saved as main_table.csv
+ - The NYT API has a query limit of 4,000 per day with 10 queries per minute, this greatly slowed down the process which is why we decided to just do the first 2,000. Querying 2,000 ISBN-13's took over 4 hours.
+ 
+ ## Problems Encountered Througout This Project
+ 
+ - API pull took over 4 hours to pull 2,000 book titles. 
+ - ISBN-13 were incorrect in some instances and had to be manually inputted after searching for them online. 
+ 
 
 
 
