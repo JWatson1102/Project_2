@@ -22,21 +22,22 @@ __Load:__ load the data into a database for storage that can be used for future 
 - Merged data into SQL database.
 
 
-#  Objective: 
-#####  To create a consolidated database with information on books, i.e., bestsellers, bestselling authors, highest rated books, and year. 
+##  Objective: 
+####  To create a consolidated database with information on books, i.e., bestsellers, bestselling authors, highest rated books, and year. 
  
 
 
-__[Group Repo](https://github.com/JWatson1102/Project_2.git)__
 
 
-### Members:
+
+## Members: _[Group Repo](https://github.com/JWatson1102/Project_2.git)_
 
 - Josh Watson
 - Amy Castillon
 - George Vallejo
 - Mindy Garcia
 
+     
 
 
 
@@ -45,7 +46,7 @@ Over 900 million books are sold in the US each year. The pandemic brought a surg
 
 ***
 
-# Data sources:
+## Data sources:
 
 > - __[New York Times API ](https://developer.nytimes.com/docs/books-product/1/routes/lists.json/get)__ 
 
@@ -54,7 +55,7 @@ Over 900 million books are sold in the US each year. The pandemic brought a surg
 > The two sources we extracted were in different formats. Goodreads data was extracted from Kaggle in CSV form. Our NYT data was extracted from an API in JSON format. Once we pulled the data from both sources, we then exported the data into CSV files. Finally, we created schemas and uploaded the CSV files into their respective tables so we could perform joins and queries.
 
 
-# Data Cleaning: CSV File
+## Data Cleaning: CSV File
 The original csv file (book.csv)looked as follows: 
 
 ![alt txt](Resources/Excel_screenshot.png)
@@ -69,7 +70,7 @@ The isbn-13, which would later become our book id, was in scientific notation an
 
  The resulting table provided a cleaner and more readable information tool.
 
- # Data Extraction: New York Times API
+ ## Data Extraction: New York Times API
  - Imported book_df.csv which contained 11,127 ISBN-13's and saved as a dataframe
  - Sorted dataframe from highest number of total ratings to lowest
  - Once sorted, saved the ISBN-13's into a list to be able to query
@@ -83,7 +84,7 @@ The isbn-13, which would later become our book id, was in scientific notation an
  - Merged all dataframes into one and saved as main_table.csv
  - The NYT API has a query limit of 4,000 per day with 10 queries per minute, this greatly slowed down the process which is why we decided to just do the first 2,000. Querying 2,000 ISBN-13's took over 4 hours.
  
- # Problems Encountered Througout This Project
+ ## Problems Encountered Througout This Project
  
  - API pull took over 4 hours to pull 2,000 book titles. 
  - ISBN-13 were incorrect in some instances and had to be manually inputted after searching for them online. 
