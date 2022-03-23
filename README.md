@@ -3,7 +3,7 @@
 
 
 
-# ETL:
+## ETL:
 
 __Extract:__ read the data, often from multiple sources/formats.
 - Extract book titles, ratings, genre, and the number of book pages from the Goodreads CSV file.
@@ -21,7 +21,7 @@ __Load:__ load the data into a database for storage that can be used for future 
 - Merge data into SQL database.
 
 
-##  Objective: 
+#  Objective: 
 #####  To create a consolidated database with information on books, i.e., bestsellers, bestselling authors, highest rated books, and year. 
  
 
@@ -44,7 +44,7 @@ Over 900 million books are sold in the US each year. The pandemic brought a surg
 
 ***
 
-## 1. Data sources:
+# Data sources:
 
 > - __[New York Times API ](https://developer.nytimes.com/docs/books-product/1/routes/lists.json/get)__ 
 
