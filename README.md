@@ -6,19 +6,20 @@
 ## ETL:
 
 __Extract:__ read the data, often from multiple sources/formats.
-- Extract book titles, ratings, genre, and the number of book pages from the Goodreads CSV file.
-- Extract data from NYT API based on ISBN
+- Extracted book titles, ratings, genre, and the number of book pages from the Goodreads CSV file.
+- Extracted data from NYT API based on ISBN
 
 
 __Transform:__ clean and structure the data to suit business needs.
-- Clean data by removing irrelelevant columns.
-- Renaming columns.
-- Finding and correcting duplicate values.
-- Create an ERD table by defining primary keys and relative information to join tables.
+- Cleaned data by removing irrelelevant columns.
+- Renamed columns.
+- Located and corrected duplicate values.
+- Created an ERD table by defining primary keys and relative information to join tables.
 
 __Load:__ load the data into a database for storage that can be used for future analysis or business use.
 
-- Merge data into SQL database.
+- Exported pandas df to a csv file. 
+- Merged data into SQL database.
 
 
 #  Objective: 
@@ -50,7 +51,7 @@ Over 900 million books are sold in the US each year. The pandemic brought a surg
 
 > - __[Goodreads Books](https://www.kaggle.com/jealousleopard/goodreadsbooks?select=books.csv)__ 
 
-> The two sources we extracted were in different formats. Goodreads data was extracted from Kaggle in CSV form. Our NYT data was extracted from an API in JSON format. Once we extracted the data from both sources, we then exported the data into CSV files. 
+> The two sources we extracted were in different formats. Goodreads data was extracted from Kaggle in CSV form. Our NYT data was extracted from an API in JSON format. Once we pulled the data from both sources, we then exported the data into CSV files. Finally, we created schemas and uploaded the CSV files into their respective tables so we could perform joins and queries.
 
 
 # Data Cleaning: CSV File
