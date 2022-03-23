@@ -12,7 +12,7 @@ __Transform:__ clean and structure the data to suit business needs.
 __Load:__ load the data into a database for storage that can be used for future analysis or business use.
 
 ##  Objective: 
-##### We chose two data sources to analyze the bestselling books throughout several years for our project. 
+##### We chose two data sources to analyze the bestselling books found in the goodreads. 
 
 
 __[Group Repo](https://github.com/JWatson1102/Project_2.git)__
@@ -29,7 +29,7 @@ __[Group Repo](https://github.com/JWatson1102/Project_2.git)__
 
 
 ***
-With over a million new releases each year, the book industry can seem daunting when looking for a good read. However, finding the bestsellers, ratings, and book size can help customers decide if they should start that lengthy novel over their short weekend. 
+Over 900 million books are sold in the US each year. The pandemic brought a surge in book sales, with 2020 setting a record for print and ebook sales. In addition, there are over 2 million released each year. With this many sales and releases, it can be daunting to find your next read, even more so if you're opening up a small bookshop. Across the US, rent has risen, making it difficult for small businesses, so many people have decided to take their business venture on wheels, including bookshops. As a result, there has been an emergence of "Books on Wheels" shops popping up across the US. With such a small space, owners must have the most relevant books in stock. Our dataset can help business owners find recently listed books in the NYT bestsellers list and find what has remained a top seller throughout the years. In addition, Goodreads is a top-rated book app that gives bookworms a place to see reviews and ratings. Combining these two datasets will help bookstores or readers find the most popular and relevant books to stock up on. 
 
 ***
 
