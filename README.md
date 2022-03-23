@@ -86,6 +86,16 @@ The isbn-13, which would later become our book id, was in scientific notation an
  - Merged all dataframes into one and saved as main_table.csv
  - The NYT API has a query limit of 4,000 per day with 10 queries per minute, this greatly slowed down the process which is why we decided to just do the first 2,000. Querying 2,000 ISBN-13's took over 4 hours.
  
+ ## Sample Queries
+ -
+ ![alt_txt](Resources/sql_image1.png)
+ -
+ ![alt_txt](Resources/sql_image2.png)
+ -
+ ![alt_txt](Resources/sql_image3.png)
+ -
+ ![alt_txt](Resources/sql_image4.png) 
+ 
  ## Problems Encountered Througout This Project
  
  - API pull took over 4 hours to pull 2,000 book titles. 
