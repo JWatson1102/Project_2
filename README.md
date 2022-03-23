@@ -87,7 +87,7 @@ The isbn-13, which would later become our book id, was in scientific notation an
  - The NYT API has a query limit of 4,000 per day with 10 queries per minute, this greatly slowed down the process which is why we decided to just do the first 2,000. Querying 2,000 ISBN-13's took over 4 hours.
  
  ## Sample Queries
- -
+ 
  ![alt_txt](Resources/sql_image1.png)
  #Perhaps your Books on Wheels shop will be circling the Fantasy Comicon in the next few months and you want to have magical books in your caravan. This 
  would be the query you would run if you're looking for a book with magic in the description. 
