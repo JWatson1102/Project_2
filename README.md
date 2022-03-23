@@ -14,12 +14,14 @@ __Transform:__ clean and structure the data to suit business needs.
 - Cleaned data by removing irrelelevant columns.
 - Renamed columns.
 - Located and corrected duplicate values.
-- Created an ERD table by defining primary keys and relative information to join tables.
+- Created an ERD table by defining primary keys and relative information to join tables. 
+- Link to _[ERD](Resources/erd.png)_
 
 __Load:__ load the data into a database for storage that can be used for future analysis or business use.
 
 - Exported pandas df to a csv file. 
 - Merged data into SQL database.
+
 
 
 ##  Objective: 
