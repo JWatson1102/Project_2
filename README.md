@@ -93,7 +93,7 @@ The isbn-13, which would later become our book id, was in scientific notation an
  ![alt_txt](Resources/sql_image2.png)
  -
  ![alt_txt](Resources/sql_image3.png)
- -
+ - This is how someone could query a book title that was written by a certain author and that title has spent the most weeks on the New York Times Bestseller list.
  ![alt_txt](Resources/sql_image4.png) 
  
  ## Problems Encountered Througout This Project
