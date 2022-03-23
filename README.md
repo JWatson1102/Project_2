@@ -69,7 +69,7 @@ The isbn-13, which would later become our book id, was in scientific notation an
  The resulting table provided a cleaner and more readable information tool.
 
  # Data Extraction: New York Times API
- - Imported book_df.csv which contained 11,127 ISBN-13's and saved as a data frame
+ - Imported book_df.csv which contained 11,127 ISBN-13's and saved as a dataframe
  - Sorted dataframe from highest number of total ratings to lowest
  - Once sorted, saved the ISBN-13's into a list to be able to query
  - Used a loop to query the NYT API for the first 2,000 ISBN-13's
@@ -80,11 +80,11 @@ The isbn-13, which would later become our book id, was in scientific notation an
  - Created separate dataframes for each query of 500
  - Of the 2,000 ISBN-13's queried, only 267 were on the NY Times Best Seller list
  - Merged all dataframes into one and saved as main_table.csv
- - The NYT API has a query limit of 4,000 per day with 10 queries allowed per minute, this greatly slowed down the process which is why we decided to just do the first 2,000. Querying 2,000 ISBN-13's took a total of 4 hours.
+ - The NYT API has a query limit of 4,000 per day with 10 queries per minute, this greatly slowed down the process which is why we decided to just do the first 2,000. Querying 2,000 ISBN-13's took over 4 hours.
  
  # Problems Encountered Througout This Project
  
- - API pull tookover 4 hours to pull 200 book titles. 
+ - API pull took over 4 hours to pull 2,000 book titles. 
  - ISBN-13 were incorrect in some instances and had to be manually inputted after searching for them online. 
  
 
