@@ -89,7 +89,8 @@ The isbn-13, which would later become our book id, was in scientific notation an
  ## Sample Queries
  -
  ![alt_txt](Resources/sql_image1.png)
- -
+  Perhaps your Books on Wheels shop will be circling the Fantasy Comicon in the next few months and you want to have magical books in your caravan. This 
+ would be the query you would run if you're looking for a book with magic in the description. 
  ![alt_txt](Resources/sql_image2.png)
  -
  ![alt_txt](Resources/sql_image3.png)
