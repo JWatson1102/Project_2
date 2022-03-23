@@ -68,7 +68,11 @@ The isbn-13, which would later become our book id, was in scientific notation an
 
  The resulting table provided a cleaner and more readable information tool.
 
-
+ # Problems Encountered Througout This Project
+ 
+ - API pull tookover 4 hours to pull 200 book titles. 
+ - ISBN-13 were incorrect in some instances and had to be manually inputted after searching for them online. 
+ 
 
 
 
