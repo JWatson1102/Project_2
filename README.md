@@ -101,7 +101,8 @@ The isbn-13, which would later become our book id, was in scientific notation an
  
  - API pull took over 4 hours to pull 2,000 book titles. 
  - ISBN-13 were incorrect in some instances and had to be manually inputted after searching for them online. 
- 
+- Our schema only excepted VARCHAR and wouldn't allow INTEGER when importing our csv file. We had to use the CAST function to convert the string into a integer when     performing operations on our data. 
+ - several rows where not aligned properly with the columns and those rows has to be altered to fit the correct table column format. 
 
 
 
