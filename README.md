@@ -68,6 +68,12 @@ The isbn-13, which would later become our book id, was in scientific notation an
 
  The resulting table provided a cleaner and more readable information tool.
 
+ # Data Extraction: New York Times API
+ -Imported book_df.csv which contained 11,127 ISBN-13's and saved as a data frame
+ -Sorted dataframe from highest number of total ratings to lowest
+ -Once sorted, saved the ISBN-13's into a list to be able to query
+ -Used a loop to query the NYT API for the first 2,000 ISBN-13's.
+ -Queried 500 at a time due to how long it took, and to minimize errors.
  # Problems Encountered Througout This Project
  
  - API pull tookover 4 hours to pull 200 book titles. 
