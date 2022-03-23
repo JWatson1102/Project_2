@@ -6,13 +6,24 @@
 # ETL:
 
 __Extract:__ read the data, often from multiple sources/formats.
+- Extract book titles, ratings, genre, and the number of book pages from the Goodreads CSV file.
+- Extract data from NYT API based on ISBN
+
 
 __Transform:__ clean and structure the data to suit business needs.
+- Clean data by removing irrelelevant columns.
+- Renaming columns.
+- Finding and correcting duplicate values.
+- Create an ERD table by defining primary keys and relative information to join tables.
 
 __Load:__ load the data into a database for storage that can be used for future analysis or business use.
 
+- Merge data into SQL database.
+
+
 ##  Objective: 
-##### We chose two data sources to analyze the bestselling books found in the goodreads. 
+#####  To create a consolidated database with information on books, i.e., bestsellers, bestselling authors, highest rated books, and year. 
+ 
 
 
 __[Group Repo](https://github.com/JWatson1102/Project_2.git)__
