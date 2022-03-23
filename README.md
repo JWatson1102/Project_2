@@ -88,13 +88,18 @@ The isbn-13, which would later become our book id, was in scientific notation an
  
  ## Sample Queries
  - This is how someone could query to find which books have recently achieved a specific ranking recently. 
+ 
  ![alt_txt](Resources/sql_image1.png)
  - Perhaps your Books on Wheels shop will be circling the Fantasy Comicon in the next few months and you want to have magical books in your caravan. This 
  would be the query you would run if you're looking for a book with magic in the description. 
+ 
  ![alt_txt](Resources/sql_image2.png)
  - This is an example of how someone could query to find a book pertaining to a particular topic with a specified number of pages.
+ 
  ![alt_txt](Resources/sql_image3.png)
- - This is how someone could query a book title that was written by a certain author and that title has spent the most weeks on the New York Times Bestseller list.
+ - This is how someone could query a book title that was written by a certain author and that title has spent the most weeks on the New York Times  
+   Bestseller list.
+   
  ![alt_txt](Resources/sql_image4.png) 
  
  ## Problems Encountered Througout This Project
